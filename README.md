@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghoshaustin
+- 👋 Hi, I’m Bishowjith Ghosh 
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
